@@ -1,4 +1,4 @@
-# 🛍️ Vrinda Store Data Analysis Dashboard
+#  Vrinda Store Data Analysis Dashboard
 
 An end-to-end data analysis project focused on analyzing the annual sales performance of **Vrinda Store**. This project processes raw retail data to uncover critical business insights regarding customer demographics, regional demand, top sales channels, and product performance to drive data-backed business growth.
 
@@ -6,7 +6,7 @@ The core analysis is built upon the dataset file **Vrinda Store Data Analysis.xl
 
 ---
 
-## 📊 Key Insights & Business Takeaways
+##  Key Insights & Business Takeaways
 
 *   **Gender Performance:** Women are the primary drivers of revenue, accounting for over **69%** of total purchases (~21.5k orders) compared to men (~9.5k orders).
 *   **Top Channels:** Platforms like **Amazon**, **Flipkart**, and **Myntra** emerge as the highest revenue-generating sales channels.
@@ -15,7 +15,7 @@ The core analysis is built upon the dataset file **Vrinda Store Data Analysis.xl
 
 ---
 
-## 🛠️ Tech Stack & Tools Used
+##  Tech Stack & Tools Used
 
 *   **Data Source:** `Vrinda Store Data Analysis.xlsx` (Raw sales data)
 *   **Data Processing:** Microsoft Excel (Data Cleaning, `IF` statements, Data Formatting)
@@ -24,7 +24,7 @@ The core analysis is built upon the dataset file **Vrinda Store Data Analysis.xl
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 The project repository includes the following primary files and sheets:
 *   `Vrinda Store Data Analysis.xlsx` — The main spreadsheet containing raw data and the dashboard sheets.
@@ -34,7 +34,7 @@ The project repository includes the following primary files and sheets:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 The dynamic dashboard allows stakeholders to filter data instantly using interactive **Slicers**:
 1.  **Month-wise Trends:** Track sales spikes and order volumes across different months to identify seasonal trends.
